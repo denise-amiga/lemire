@@ -1,0 +1,54 @@
+[submodule "cbitset"]
+	path = cbitset
+	url = https://github.com/lemire/cbitset.git
+[submodule "fastmod"]
+	path = fastmod
+	url = https://github.com/lemire/fastmod.git
+[submodule "clhash"]
+	path = clhash
+	url = https://github.com/lemire/clhash.git
+[submodule "wyhash"]
+	path = wyhash
+	url = https://github.com/lemire/wyhash.git
+[submodule "sort-bench"]
+	path = sort-bench
+	url = https://github.com/lemire/sort-bench.git
+[submodule "fastflagstats"]
+	path = fastflagstats
+	url = https://github.com/lemire/fastflagstats.git
+[submodule "costofsafety"]
+	path = costofsafety
+	url = https://github.com/lemire/costofsafety.git
+[submodule "fastrandom"]
+	path = fastrandom
+	url = https://github.com/lemire/fastrandom.git
+[submodule "fastbase64"]
+	path = fastbase64
+	url = https://github.com/lemire/fastbase64.git
+[submodule "c-tokenizer"]
+	path = c-tokenizer
+	url = https://github.com/lemire/c-tokenizer.git
+[submodule "string-sorting"]
+	path = string-sorting
+	url = https://github.com/lemire/string-sorting.git
+[submodule "java_vs_c_bitmap_benchmark"]
+	path = java_vs_c_bitmap_benchmark
+	url = https://github.com/lemire/java_vs_c_bitmap_benchmark.git
+[submodule "klib"]
+	path = klib
+	url = https://github.com/lemire/klib.git
+[submodule "littleintpacker"]
+	path = littleintpacker
+	url = https://github.com/lemire/littleintpacker.git
+[submodule "dictionary"]
+	path = dictionary
+	url = https://github.com/lemire/dictionary.git
+[submodule "hash-function-benchmark"]
+	path = hash-function-benchmark
+	url = https://github.com/lemire/hash-function-benchmark.git
+[submodule "createfasthash"]
+	path = createfasthash
+	url = https://github.com/lemire/createfasthash.git
+[submodule "batchhashmap"]
+	path = batchhashmap
+	url = https://github.com/lemire/batchhashmap.git
