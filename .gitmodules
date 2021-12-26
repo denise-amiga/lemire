@@ -1,0 +1,54 @@
+[submodule "batchhashmap"]
+	path = batchhashmap
+	url = git@github.com:lemire/batchhashmap.git
+[submodule "cbitset"]
+	path = cbitset
+	url = git@github.com:lemire/cbitset.git
+[submodule "clhash"]
+	path = clhash
+	url = git@github.com:lemire/clhash.git
+[submodule "costofsafety"]
+	path = costofsafety
+	url = git@github.com:lemire/costofsafety.git
+[submodule "createfasthash"]
+	path = createfasthash
+	url = git@github.com:lemire/createfasthash.git
+[submodule "c-tokenizer"]
+	path = c-tokenizer
+	url = git@github.com:lemire/c-tokenizer.git
+[submodule "dictionary"]
+	path = dictionary
+	url = git@github.com:lemire/dictionary.git
+[submodule "fastbase64"]
+	path = fastbase64
+	url = git@github.com:lemire/fastbase64.git
+[submodule "fastflagstats"]
+	path = fastflagstats
+	url = git@github.com:lemire/fastflagstats.git
+[submodule "fastmod"]
+	path = fastmod
+	url = git@github.com:lemire/fastmod.git
+[submodule "fastrandom"]
+	path = fastrandom
+	url = git@github.com:lemire/fastrandom.git
+[submodule "hash-function-benchmark"]
+	path = hash-function-benchmark
+	url = git@github.com:lemire/hash-function-benchmark.git
+[submodule "java_vs_c_bitmap_benchmark"]
+	path = java_vs_c_bitmap_benchmark
+	url = git@github.com:lemire/java_vs_c_bitmap_benchmark.git
+[submodule "klib"]
+	path = klib
+	url = git@github.com:lemire/klib.git
+[submodule "littleintpacker"]
+	path = littleintpacker
+	url = git@github.com:lemire/littleintpacker.git
+[submodule "sort-bench"]
+	path = sort-bench
+	url = git@github.com:lemire/sort-bench.git
+[submodule "string-sorting"]
+	path = string-sorting
+	url = git@github.com:lemire/string-sorting.git
+[submodule "wyhash"]
+	path = wyhash
+	url = git@github.com:lemire/wyhash.git
